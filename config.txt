@@ -58,3 +58,4 @@
 58,combine_cmd_load,AB BA 90 0F 08 E5 00 00 00 00 00 00 00
 59,combine_cmd_no_load,AB BA 90 0F 08 69 00 00 00 00 00 00 00
 60,mcu_reset,AB BA 72 08 01 01
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
